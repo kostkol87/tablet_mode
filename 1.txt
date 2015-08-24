@@ -1,0 +1,163 @@
+2 instances:
+Access                       : 0
+Availability                 : 
+BlockSize                    : 
+Caption                      : C:
+Compressed                   : False
+ConfigManagerErrorCode       : 
+ConfigManagerUserConfig      : 
+CreationClassName            : Win32_LogicalDisk
+Description                  : Ћокальный несъемный диск
+DeviceID                     : C:
+DriveType                    : 3
+ErrorCleared                 : 
+ErrorDescription             : 
+ErrorMethodology             : 
+FileSystem                   : NTFS
+FreeSpace                    : 31470567424
+InstallDate                  : 
+LastErrorCode                : 
+MaximumComponentLength       : 255
+MediaType                    : 12
+Name                         : C:
+NumberOfBlocks               : 
+PNPDeviceID                  : 
+PowerManagementCapabilities  : null
+PowerManagementSupported     : 
+ProviderName                 : 
+Purpose                      : 
+QuotasDisabled               : 
+QuotasIncomplete             : 
+QuotasRebuilding             : 
+Size                         : 61090033664
+Status                       : 
+StatusInfo                   : 
+SupportsDiskQuotas           : False
+SupportsFileBasedCompression : True
+SystemCreationClassName      : Win32_ComputerSystem
+SystemName                   : ASUS_TABLET
+VolumeDirty                  : 
+VolumeName                   : OS
+VolumeSerialNumber           : 1E8C003F
+Access                       : 0
+Availability                 : 
+BlockSize                    : 
+Caption                      : E:
+Compressed                   : False
+ConfigManagerErrorCode       : 
+ConfigManagerUserConfig      : 
+CreationClassName            : Win32_LogicalDisk
+Description                  : —ъемный диск
+DeviceID                     : E:
+DriveType                    : 2
+ErrorCleared                 : 
+ErrorDescription             : 
+ErrorMethodology             : 
+FileSystem                   : NTFS
+FreeSpace                    : 11939696640
+InstallDate                  : 
+LastErrorCode                : 
+MaximumComponentLength       : 255
+MediaType                    : 
+Name                         : E:
+NumberOfBlocks               : 
+PNPDeviceID                  : 
+PowerManagementCapabilities  : null
+PowerManagementSupported     : 
+ProviderName                 : 
+Purpose                      : 
+QuotasDisabled               : 
+QuotasIncomplete             : 
+QuotasRebuilding             : 
+Size                         : 32224833536
+Status                       : 
+StatusInfo                   : 
+SupportsDiskQuotas           : False
+SupportsFileBasedCompression : True
+SystemCreationClassName      : Win32_ComputerSystem
+SystemName                   : ASUS_TABLET
+VolumeDirty                  : False
+VolumeName                   : 
+VolumeSerialNumber           : 215642E0
+============================================
+2 instances:
+Access                       : 0
+Availability                 : 
+BlockSize                    : 
+Caption                      : C:
+Compressed                   : False
+ConfigManagerErrorCode       : 
+ConfigManagerUserConfig      : 
+CreationClassName            : Win32_LogicalDisk
+Description                  : Ћокальный несъемный диск
+DeviceID                     : C:
+DriveType                    : 3
+ErrorCleared                 : 
+ErrorDescription             : 
+ErrorMethodology             : 
+FileSystem                   : NTFS
+FreeSpace                    : 31470473216
+InstallDate                  : 
+LastErrorCode                : 
+MaximumComponentLength       : 255
+MediaType                    : 12
+Name                         : C:
+NumberOfBlocks               : 
+PNPDeviceID                  : 
+PowerManagementCapabilities  : null
+PowerManagementSupported     : 
+ProviderName                 : 
+Purpose                      : 
+QuotasDisabled               : 
+QuotasIncomplete             : 
+QuotasRebuilding             : 
+Size                         : 61090033664
+Status                       : 
+StatusInfo                   : 
+SupportsDiskQuotas           : False
+SupportsFileBasedCompression : True
+SystemCreationClassName      : Win32_ComputerSystem
+SystemName                   : ASUS_TABLET
+VolumeDirty                  : 
+VolumeName                   : OS
+VolumeSerialNumber           : 1E8C003F
+Access                       : 0
+Availability                 : 
+BlockSize                    : 
+Caption                      : E:
+Compressed                   : False
+ConfigManagerErrorCode       : 
+ConfigManagerUserConfig      : 
+CreationClassName            : Win32_LogicalDisk
+Description                  : —ъемный диск
+DeviceID                     : E:
+DriveType                    : 2
+ErrorCleared                 : 
+ErrorDescription             : 
+ErrorMethodology             : 
+FileSystem                   : NTFS
+FreeSpace                    : 11939696640
+InstallDate                  : 
+LastErrorCode                : 
+MaximumComponentLength       : 255
+MediaType                    : 
+Name                         : E:
+NumberOfBlocks               : 
+PNPDeviceID                  : 
+PowerManagementCapabilities  : null
+PowerManagementSupported     : 
+ProviderName                 : 
+Purpose                      : 
+QuotasDisabled               : 
+QuotasIncomplete             : 
+QuotasRebuilding             : 
+Size                         : 32224833536
+Status                       : 
+StatusInfo                   : 
+SupportsDiskQuotas           : False
+SupportsFileBasedCompression : True
+SystemCreationClassName      : Win32_ComputerSystem
+SystemName                   : ASUS_TABLET
+VolumeDirty                  : False
+VolumeName                   : 
+VolumeSerialNumber           : 215642E0
