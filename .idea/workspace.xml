@@ -17,7 +17,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\w10_tablet_mode" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
@@ -31,9 +31,12 @@
       <file leaf-file-name="swither.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/swither.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12941177" vertical-offset="0" max-vertical-offset="680">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding />
+            <state vertical-scroll-proportion="3.5558825" vertical-offset="1652" max-vertical-offset="4202">
+              <caret line="185" column="9" selection-start-line="185" selection-start-column="9" selection-end-line="185" selection-end-column="9" />
+              <folding>
+                <element signature="e#51#61#0" expanded="true" />
+                <marker date="1440440905237" expanded="true" signature="352:383" placeholder="SELECT * FRO..Win32_LogicalDisk..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -324,12 +327,24 @@
       <option name="project" value="LOCAL" />
       <updated>1440439954591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="blaaa commit">
+      <created>1440439979081</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1440439979081</updated>
+    </task>
+    <task id="LOCAL-00004" summary="blaaa commit">
+      <created>1440440922026</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1440440922026</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2600536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -370,7 +385,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="n1" />
-    <option name="LAST_COMMIT_MESSAGE" value="n1" />
+    <MESSAGE value="blaaa commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="blaaa commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -381,7 +397,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#51#61#0" expanded="true" />
+            <marker date="1440440905237" expanded="true" signature="352:383" placeholder="SELECT * FRO..Win32_LogicalDisk..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -389,7 +408,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#51#61#0" expanded="true" />
+            <marker date="1440440905237" expanded="true" signature="352:383" placeholder="SELECT * FRO..Win32_LogicalDisk..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -397,15 +419,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#51#61#0" expanded="true" />
+            <marker date="1440440905237" expanded="true" signature="352:383" placeholder="SELECT * FRO..Win32_LogicalDisk..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/swither.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12941177" vertical-offset="0" max-vertical-offset="680">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
+        <state vertical-scroll-proportion="3.5558825" vertical-offset="1652" max-vertical-offset="4202">
+          <caret line="185" column="9" selection-start-line="185" selection-start-column="9" selection-end-line="185" selection-end-column="9" />
+          <folding>
+            <element signature="e#51#61#0" expanded="true" />
+            <marker date="1440440905237" expanded="true" signature="352:383" placeholder="SELECT * FRO..Win32_LogicalDisk..." />
+          </folding>
         </state>
       </provider>
     </entry>
